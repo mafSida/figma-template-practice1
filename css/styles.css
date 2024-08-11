@@ -3,3 +3,124 @@ body {
   color: #ffffff;
   font-family: "Open Sans", sans-serif;
 }
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  font-style: normal;
+  color: currentColor;
+}
+
+button {
+  cursor: pointer;
+  box-shadow: none;
+  border: none;
+}
+
+img {
+  display: block;
+}
+
+.container {
+}
+
+.header {
+}
+.header-container {
+}
+.logowrap {
+}
+.logo-circle {
+}
+.logo-text {
+}
+.header-socials {
+}
+.socials-item {
+}
+.socials-link {
+}
+.socials-logo {
+}
+.main {
+}
+.hero {
+}
+.hero-title {
+}
+.book-btn {
+}
+.portfolio {
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+.portfolio-list-img {
+}
+.portfolio-text {
+}
+.explore-btn {
+}
+.about {
+}
+.about-text-wrap {
+}
+.about-title {
+}
+.about-text {
+}
+.about-img {
+}
+.reviews {
+}
+.reviews-text-wrap {
+}
+.reviews-title {
+}
+.reviews-text {
+}
+.reviews-page-btn {
+}
+.reviews-list {
+}
+.reviews-list-item {
+}
+.reviews-list-img {
+}
+.subscribe {
+}
+.subscribe-title {
+}
+.subscribe-wrapper {
+}
+.subscribe-text {
+}
+.subscribe-form {
+}
+.subscribe-input-field {
+}
+.subscribe-btn {
+}
+.contact {
+}
+.contact-title {
+}
+.contact-text {
+}
+.contact-btn {
+}
+.footer {
+}
